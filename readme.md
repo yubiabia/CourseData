@@ -1,13 +1,18 @@
 # **课程域描述可视化 Course-domain data Visualization**
 
 ## 使用环境 Environment 
--工具:html, JavaScript Tool:html, JavaScript
--库:D3 Library: D3
--数据文件:tsv Data Format:tsv
+-工具:html, JavaScript 
+Tool:html, JavaScript
+-库:D3 
+Library: D3
+-数据文件:tsv 
+Data Format:tsv
 
 ## 可视化1: 7选3课程的可折叠树状图
-数据:CourseSelection.json Data: CourseSelection.json
-可视化文件：TreeDiagram.html Interface: TreeDiagram.html
+-数据:CourseSelection.json 
+Data: CourseSelection.json
+-可视化文件：TreeDiagram.html 
+Interface: TreeDiagram.html
 该可视化展现了高三学生在2018/7/1的考试（高二第二学期期末考）后确认的选考科目情况
 -颜色深浅及气泡半径：展现该选课组合的概率
 -例如：
